@@ -1,5 +1,6 @@
 # Sistema de Escalas de Saúde
 
+
 ## 📋 Descrição
 O **Sistema de Escalas de Saúde** é uma plataforma digital projetada para profissionais de saúde que necessitam de acesso rápido e preciso a diversas escalas hospitalares amplamente utilizadas, como:
 - Escala de Coma de Glasgow
@@ -85,3 +86,6 @@ Para dúvidas ou sugestões, entre em contato:
 Nome: Dr. Leonardo Freire
 E-mail: lfreire1985@gmail.com
 LinkedIn: https://www.linkedin.com/in/leonardofv
+
+# ORGANIZAÇÃO:
+![image](https://github.com/user-attachments/assets/6f2237fa-6ec2-439e-9746-7fefaef626fe)
